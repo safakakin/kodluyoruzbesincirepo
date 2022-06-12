@@ -1,0 +1,2 @@
+# kodluyoruzbesincirepo
+Veri tipleri
